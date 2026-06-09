@@ -3,7 +3,7 @@ A personal DSA Problem Tracker built with Spring Boot and MySQL to track coding 
 
 ## 🔐 Authentication
 Secure login and registration system with form validation and user account management.
-<img width="1894" height="608" alt="image" src="https://github.com/user-attachments/assets/5e8513d4-d81b-493e-a766-01a49cfc57c3" />
+<img width="1888" height="592" alt="image" src="https://github.com/user-attachments/assets/a9fce0c5-00e8-44a5-8fec-77cdd008ece1" />
 
 ## 📊 Dashboard
 Get an overview of your coding journey with progress statistics, difficulty distribution, recent problems, starred problems, and topic tags.
